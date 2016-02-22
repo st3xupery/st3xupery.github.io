@@ -1,0 +1,2103 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"seat",
+				"seat_style"
+			],
+			[
+				"ven",
+				"vendorPageUrl"
+			],
+			[
+				"imageC",
+				"imageContainerName"
+			],
+			[
+				"tes",
+				"testingGroundTwo"
+			],
+			[
+				"t",
+				"truthy"
+			],
+			[
+				"color-co",
+				"color-corportate-gray-lightest	 variables.less"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"o",
+				"optionBundle"
+			],
+			[
+				"s",
+				"substring〔function〕"
+			],
+			[
+				"th",
+				"thumbnail"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"uiSel",
+				"uiSelectCtrl〔variable〕"
+			],
+			[
+				"uiSelect",
+				"uiSelectCtrl"
+			],
+			[
+				"sele",
+				"selectDirective〔argument〕"
+			],
+			[
+				"di",
+				"directive('uiSelect"
+			],
+			[
+				"uiSelec",
+				"uiSelectCtrl"
+			],
+			[
+				"dir",
+				"verbose_directive	AngularJS"
+			],
+			[
+				"active",
+				"activeImageKey"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"colo",
+				"color-dark-grey	 main.less"
+			],
+			[
+				"bun",
+				"bundleConfig〔argument〕"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"color",
+				"color-white	 main.less"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"setOff",
+				"setOffsetsArray"
+			],
+			[
+				"scale",
+				"scaleConfig"
+			],
+			[
+				"hard",
+				"hardwareConfig"
+			],
+			[
+				"cha",
+				"chairOptionsConditioner"
+			],
+			[
+				"cat",
+				"catalogueDataRetrieval"
+			],
+			[
+				"component",
+				"component_code"
+			],
+			[
+				"k",
+				"kinetic"
+			],
+			[
+				"vendo",
+				"vendorDb〔variable〕"
+			],
+			[
+				"sub",
+				"sublevel"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"News",
+				"NewsGoth"
+			],
+			[
+				"im",
+				"imageContainer"
+			],
+			[
+				"sw",
+				"swatchUrl"
+			],
+			[
+				"comp",
+				"componentCode"
+			],
+			[
+				"depe",
+				"dependent"
+			],
+			[
+				"bund",
+				"bundleName〔variable〕"
+			],
+			[
+				"options",
+				"optionsBundle"
+			],
+			[
+				"depen",
+				"dependent"
+			],
+			[
+				"repe",
+				"repeatDistance"
+			],
+			[
+				"load",
+				"loadSwatch"
+			],
+			[
+				"fabr",
+				"fabric_image"
+			],
+			[
+				"dra",
+				"drawBorder"
+			],
+			[
+				"option",
+				"optionBundles"
+			],
+			[
+				"layer",
+				"layerWrapper"
+			],
+			[
+				"HSV",
+				"HSV_Values"
+			],
+			[
+				"compon",
+				"component_code"
+			],
+			[
+				"u",
+				"upholsterySpecs"
+			],
+			[
+				"seat_",
+				"seat_upholstery"
+			],
+			[
+				"sc",
+				"scaleCenter"
+			],
+			[
+				"compo",
+				"component_code"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"Cha",
+				"ChairComponent"
+			],
+			[
+				"loade",
+				"loadedSwatches"
+			],
+			[
+				"thumb",
+				"thumbnails"
+			],
+			[
+				"m",
+				"module	AngularJS"
+			],
+			[
+				"dire",
+				"directive"
+			],
+			[
+				"fa-chevron-",
+				"fa-chevron-down	 font-awesome.min.css"
+			],
+			[
+				"ico",
+				"icon-holder-circle	 misc.less"
+			],
+			[
+				"icon-",
+				"icon-box	 main.css"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"inlin",
+				"inline-table"
+			],
+			[
+				"bower",
+				"bowerConfig〔argument〕"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"req",
+				"requirejs"
+			],
+			[
+				"requ",
+				"requirejs"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"border-bot",
+				"border-bottom"
+			],
+			[
+				"wid",
+				"width-100	 main.css"
+			],
+			[
+				"nav",
+				"navbar-group	 main.css"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"navba",
+				"navbar-element	 main.css"
+			],
+			[
+				"trna",
+				"transition-timing-function"
+			],
+			[
+				"tran",
+				"transition-duration"
+			],
+			[
+				"fadeo",
+				" fadeout(color, 10%)"
+			],
+			[
+				"hardw",
+				"hardwareOptions"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"upp",
+				"upper	 kube.css"
+			],
+			[
+				"text-",
+				"text-centered	 main.css"
+			],
+			[
+				"fo",
+				"font-large	 main.css"
+			],
+			[
+				"text",
+				"text-centered	 main.css"
+			],
+			[
+				"background-",
+				"background-header	 variables.less"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"trans",
+				"transition-all(@time)	 misc.less"
+			],
+			[
+				"color-",
+				"color-green	 variables.less"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"font-x",
+				"font-xxlarge	 main.css"
+			],
+			[
+				"border-to",
+				"border-top-width"
+			],
+			[
+				"border-s",
+				"border-spacing"
+			],
+			[
+				"color-gr",
+				"color-gray-light	 variables.less"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"de",
+				"description	 main.css"
+			],
+			[
+				"objec",
+				"objective"
+			],
+			[
+				"bar",
+				"barLineChart"
+			],
+			[
+				"add",
+				"addTransition"
+			],
+			[
+				"transi",
+				"transition"
+			],
+			[
+				"ore",
+				"orebodyLevel"
+			],
+			[
+				"or",
+				"orebodyLevel"
+			],
+			[
+				"des",
+				"descendantType〔variable〕"
+			],
+			[
+				"c",
+				"controller	AngularJS"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"gridDaa",
+				"gridDataSrvc"
+			],
+			[
+				"brow",
+				"browserify-replace"
+			],
+			[
+				"acti",
+				"activeFilter"
+			],
+			[
+				"new",
+				"newRecipients"
+			],
+			[
+				"infe",
+				"infectedFarm"
+			],
+			[
+				"fi",
+				"filteredData"
+			],
+			[
+				"watch",
+				"watchify"
+			],
+			[
+				"cons",
+				"constant	AngularJS"
+			],
+			[
+				"trn",
+				"transactionLayers"
+			],
+			[
+				"farmPr",
+				"farmProperties"
+			],
+			[
+				"ng-sw",
+				"ng-switch	AngularJS"
+			],
+			[
+				"form-",
+				"form-group	 bootstrap.min.css"
+			],
+			[
+				"cyc",
+				"cycleCount"
+			],
+			[
+				"equ",
+				"equipmentPerson"
+			],
+			[
+				"collecti",
+				"collectionCount"
+			],
+			[
+				"get",
+				"getTransactions"
+			],
+			[
+				"tr",
+				"transactionRecordManager"
+			],
+			[
+				"equipm",
+				"EquipmentPersonID"
+			],
+			[
+				"transactio",
+				"transactionRiskCategory"
+			],
+			[
+				"repopula",
+				"repopulateLayerGroup"
+			],
+			[
+				"farmProper",
+				"farmPropertyManager"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "themes/icarus/_config.yml",
+			"settings":
+			{
+				"buffer_size": 1025,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/about/index.md",
+			"settings":
+			{
+				"buffer_size": 2420,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_posts/hello-world.md",
+			"settings":
+			{
+				"buffer_size": 2076,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_posts/ClearMine.md",
+			"settings":
+			{
+				"buffer_size": 286,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CNAME",
+			"settings":
+			{
+				"buffer_size": 17,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1974,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"c",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colot",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"insta",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"placka",
+				"Package Control: List Packages"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remp",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"JSHIN",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"lin",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"colo	",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"set syntax: ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"ins	",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+			"linter",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/danielalksnis/Sites/st3xupery.github.io",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/source",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/source/_drafts",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/source/_posts",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/source/about",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/source/images",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/source/portfolio-clearmine",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/themes/icarus"
+	],
+	"file_history":
+	[
+		"/Users/danielalksnis/Sites/st3xupery.github.io/themes/icarus/source/css/_variables.styl",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/themes/icarus/layout/_partial/header.ejs",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/themes/icarus/layout/_partial/profile.ejs",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/source/_posts/hello-world.md",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/themes/icarus/_config.yml",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/_config.yml",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/themes/icarus/layout/_partial/head.ejs",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/source/_posts/ClearMine.md",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/scaffolds/page.md",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/source/clearmine/index.md",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/source/portfolio-clearmine/index.md",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/themes/icarus/layout/_partial/page.ejs",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/themes/icarus/layout/page.ejs",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/source/about/index.md",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/node_modules/hexo-generator-archive/lib/generator.js",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/scaffolds/portfolio.md",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/themes/icarus/layout/_partial/post/gallery.ejs",
+		"/Users/danielalksnis/Sites/st3xupery.github.io/themes/icarus/_config.yml.site.example",
+		"/Users/danielalksnis/Sites/naborly/src/app/app.js",
+		"/Users/danielalksnis/Sites/naborly/src/jade/index.jade",
+		"/Users/danielalksnis/Sites/naborly/package.json",
+		"/Users/danielalksnis/Sites/neighborly",
+		"/Users/danielalksnis/Sites/angular2/package.json",
+		"/Users/danielalksnis/Sites/all-seating/src/js/factories/Chair.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/services/chairBuilderInitData.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/factories/PartSwitcher.js",
+		"/Users/danielalksnis/Sites/all-seating/src/jade/templates/options-panel.jade",
+		"/Users/danielalksnis/Sites/all-seating/src/js/directives/options-panel.js",
+		"/Users/danielalksnis/Sites/all-seating/app.js",
+		"/Users/danielalksnis/Sites/all-seating/src/jade/templates/option-block.jade",
+		"/Users/danielalksnis/Sites/all-seating/src/js/factories/Cushion.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/services/catalogueDataRetrieval.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/directives/fabric-panel.js",
+		"/Users/danielalksnis/Sites/all-seating/routes/pattern-catalogue.js",
+		"/Users/danielalksnis/Sites/all-seating/routes/index.js",
+		"/Users/danielalksnis/Sites/all-seating/src/jade/index.jade",
+		"/Users/danielalksnis/Sites/all-seating/src/js/app.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/factories/ChairComponent.js",
+		"/Users/danielalksnis/Sites/all-seating/spec/unit/fabric-vendor-scraper-spec.js",
+		"/Users/danielalksnis/Sites/all-seating/lib/fabric-vendor-scraper.js",
+		"/Users/danielalksnis/Sites/all-seating/lib/email-summary-generator.js",
+		"/Users/danielalksnis/Sites/all-seating/lib/fabric-catalogue-interface.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/factories/MeshCushion.js",
+		"/Users/danielalksnis/Sites/all-seating/spec/helpers/fabricImageLookup.html",
+		"/Users/danielalksnis/Sites/all-seating/dbConsole.js",
+		"/Users/danielalksnis/Sites/all-seating/spec/unit/email-sum-gen-spec.js",
+		"/Users/danielalksnis/Sites/all-seating/views/email-summary/layout.jade",
+		"/Users/danielalksnis/Sites/all-seating/views/email-summary/index.jade",
+		"/Users/danielalksnis/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/danielalksnis/Sites/all-seating/spec/support/jasmine.json",
+		"/Users/danielalksnis/Sites/all-seating/spec/email-sum-gen-spec.js",
+		"/Users/danielalksnis/Sites/all-seating/spec/fabric-vendor-scraper-spec.js",
+		"/Users/danielalksnis/Sites/all-seating/routes/summarize.js",
+		"/Users/danielalksnis/Sites/all-seating/views/email-summary.jade",
+		"/Users/danielalksnis/Sites/all-seating/levels.js",
+		"/Users/danielalksnis/Sites/all-seating/spec/helpers/extract-style-url.html",
+		"/Users/danielalksnis/Sites/all-seating/src/js/mock-backend.js",
+		"/Users/danielalksnis/Sites/all-seating/src/json/you-midback.json",
+		"/Users/danielalksnis/Sites/all-seating/src/json/component-scales.json",
+		"/Users/danielalksnis/Sites/all-seating/src/js/KineticExtensions/extensions.js",
+		"/Users/danielalksnis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/danielalksnis/Sites/all-seating/lib/.jshintrc",
+		"/Users/danielalksnis/Sites/all-seating.sublime-project",
+		"/Users/danielalksnis/Sites/all-seating/src/less/main.less",
+		"/Users/danielalksnis/Sites/all-seating/package.json",
+		"/Users/danielalksnis/Sites/all-seating/src/less/variables.less",
+		"/Users/danielalksnis/Documents/invoice/invoice-2015w39.tex",
+		"/Users/danielalksnis/Sites/all-seating/src/less/flat-buttons.less",
+		"/Users/danielalksnis/Sites/all-seating/src/less/modal.less",
+		"/Users/danielalksnis/Sites/all-seating/src/js/directives/image-gallery.js",
+		"/Users/danielalksnis/Sites/all-seating/src/jade/templates/image-gallery.jade",
+		"/Users/danielalksnis/Documents/dbdebugcommands",
+		"/Users/danielalksnis/Sites/all-seating/src/js/directives/fabric-catalogue-console.js",
+		"/Users/danielalksnis/Sites/all-seating/src/jade/templates/fabric-cat-console.jade",
+		"/Users/danielalksnis/Sites/all-seating/lib/chair-config-interface.js",
+		"/Users/danielalksnis/Sites/all-seating/src/jade/templates/catalogue-panel.jade",
+		"/Users/danielalksnis/Sites/all-seating/routes/chair-builder-conf.js",
+		"/Users/danielalksnis/Sites/all-seating/src/less/chair-builder-menu.less",
+		"/Users/danielalksnis/Sites/all-seating/src/js/directives/catalogue-panel.js",
+		"/Users/danielalksnis/Sites/all-seating/src/jade/templates/info-modal.jade",
+		"/Users/danielalksnis/Sites/all-seating/src/js/directives/info-modal.js",
+		"/Users/danielalksnis/Sites/all-seating/csv/pattern-repeats.csv",
+		"/Users/danielalksnis/Sites/all-seating/.gitignore",
+		"/Users/danielalksnis/Sites/all-seating/src/js/directives/summary-page.js",
+		"/Users/danielalksnis/Sites/all-seating/csv/vendors.csv",
+		"/Users/danielalksnis/Sites/all-seating/csv/allseating-repeat.csv",
+		"/Users/danielalksnis/Sites/all-seating/src/less/mixins.less",
+		"/Users/danielalksnis/Sites/all-seating/src/less/blocks.less",
+		"/Users/danielalksnis/Sites/all-seating/bower_components/skeleton/css/skeleton.css",
+		"/Users/danielalksnis/Sites/all-seating/bower.json",
+		"/Users/danielalksnis/Sites/all-seating/src/js/factories/MultiSelector.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/factories/SimpleChairComponent.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/factories/ChairArms.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/constants.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/services/chairComponentsConfig.js",
+		"/Users/danielalksnis/Sites/all-seating/json-store/fabric-vendors-cat.json",
+		"/Users/danielalksnis/Sites/all-seating/bin/www",
+		"/Users/danielalksnis/Sites/all-seating/.jshintrc",
+		"/Users/danielalksnis/Sites/all-seating/src/jade/templates/fabric-panel.jade",
+		"/Users/danielalksnis/Sites/all-seating/src/js/directives/option-block.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/directives/attributes/btn-radio-extended.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/directives/attributes/thumbnail.js",
+		"/Users/danielalksnis/Sites/all-seating/src/json/fabrics.json",
+		"/Users/danielalksnis/Sites/all-seating/importcsv.js",
+		"/Users/danielalksnis/Sites/all-seating/import.js",
+		"/Users/danielalksnis/Sites/all-seating/json-store/fabric-catalogues.json",
+		"/Users/danielalksnis/Sites/all-seating/csv/fabric-vendors.csv",
+		"/Users/danielalksnis/Sites/all-seating/src/json/all-seating-fabric-repeat.json",
+		"/Users/danielalksnis/Sites/all-seating/src/less/tabs.less",
+		"/Users/danielalksnis/Sites/all-seating/src/less/untitled",
+		"/Users/danielalksnis/Sites/all-seating/src/jade/templates/vendor-catalogue.jade",
+		"/Users/danielalksnis/Sites/all-seating/node_modules/angular/angular.js",
+		"/Users/danielalksnis/Desktop/lgcharger.txt",
+		"/Users/danielalksnis/Sites/all-seating/src/js/ui-bootstrap-custom-build/ui-bootstrap-custom-0.13.4.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/ui-bootstrap-custom-build/ui-bootstrap-custom-0.13.4.min.js",
+		"/Users/danielalksnis/Sites/all-seating/src/jade/templates/image-gallery-thumbnails.jade",
+		"/Users/danielalksnis/Sites/all-seating/src/js/services/helpersSrvc.js",
+		"/Users/danielalksnis/Sites/all-seating/node_modules/angular-modal/modal.js",
+		"/Users/danielalksnis/Sites/all-seating/src/less/thumbnail-gallery",
+		"/Users/danielalksnis/Sites/all-seating/src/jade/templates/builder-summary-modal.jade",
+		"/Users/danielalksnis/Sites/all-seating/TODO.md",
+		"/Users/danielalksnis/Sites/all-seating/spec/fabric-catalogue-spec.js",
+		"/Users/danielalksnis/Sites/all-seating/src/jade/templates/accordion-group.jade",
+		"/Users/danielalksnis/Sites/all-seating/src/jade/templates/test-accordion.jade",
+		"/Users/danielalksnis/Sites/all-seating/src/js/factories/component-config.js",
+		"/Users/danielalksnis/Sites/all-seating/node_modules/lodash/object/set.js",
+		"/Users/danielalksnis/Sites/all-seating/src/js/helpers/getOrSet.js",
+		"/Users/danielalksnis/Sites/all-seating/node_modules/lodash/internal/baseGet.js"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			"/Users/danielalksnis/Sites/st3xupery.github.io/themes/icarus",
+			"/Users/danielalksnis/Sites/st3xupery.github.io",
+			"/Users/danielalksnis/Sites/all-seating",
+			"/Users/danielalksnis/Sites/all-seating/src/js/factories",
+			"/Users/danielalksnis/Sites/all-seating/src/less",
+			"/Users/danielalksnis/Sites/all-seating/src/js/factories",
+			"/Users/danielalksnis/Sites/all-seating/src/less",
+			"/Users/danielalksnis/Sites/all-seating/src/jade/templates",
+			"/Users/danielalksnis/Sites/all-seating/src/less",
+			"/Users/danielalksnis/Sites/all-seating/src/jade",
+			"/Users/danielalksnis/Sites/all-seating/src/js",
+			"/Users/danielalksnis/Sites/all-seating/src/less",
+			"/Users/danielalksnis/Sites/all-seating/src/jade",
+			"/Users/danielalksnis/Sites/all-seating/src/js",
+			"/Users/danielalksnis/Sites/all-seating/src/jade",
+			"/Users/danielalksnis/Sites/minestat/client/src",
+			"/Users/danielalksnis/Sites/minestat/client/src/less",
+			"/Users/danielalksnis/Sites/minestat/client/src/jade",
+			"/Users/danielalksnis/Sites/minestat/client/src/js",
+			"/Users/danielalksnis/Sites/minestat/client/src/less",
+			"/Users/danielalksnis/Sites/minestat/client/build/js",
+			"/Users/danielalksnis/Sites/minestat/client/src/js/app",
+			"/Users/danielalksnis/Sites/minestat/client/src/less",
+			"/Users/danielalksnis/Sites/minestat/client/src/less/kube",
+			"/Users/danielalksnis/Sites/minestat/client/src/less",
+			"/Users/danielalksnis/Sites/minestat/client/src/js",
+			"/Users/danielalksnis/Sites/minestat/client/src/less",
+			"/Users/danielalksnis/Sites/minestat/client/src/js",
+			"/Users/danielalksnis/Sites/minestat/client/src",
+			"/Users/danielalksnis/Sites/minestat/client/src/less",
+			"/Users/danielalksnis/Sites/minestat/client/node_modules/angular-bootstrap/src",
+			"/Users/danielalksnis/Sites/minestat/client/src/js",
+			"/Users/danielalksnis/Sites/minestat/client/src/less",
+			"/Users/danielalksnis/Sites/minestat/client/src/js",
+			"/Users/danielalksnis/Sites/minestat/client/src/js/production-dashboard",
+			"/Users/danielalksnis/Sites/minestat/client/src/js",
+			"/Users/danielalksnis/Sites/minestat/client/src/js/production-dashboard",
+			"/Users/danielalksnis/Sites/minestat/client/src/js",
+			"/Users/danielalksnis/Sites/minestat/client/node_modules/angular-jsdoc/template/tmpl",
+			"/Users/danielalksnis/Sites/RecetteX/target",
+			"/Users/danielalksnis/Sites/RecetteX/target/web/public",
+			"/Users/danielalksnis/Sites/RecetteX/app",
+			"/Users/danielalksnis/Sites/RecetteX/target/web",
+			"/Users/danielalksnis/Sites/RecetteX",
+			"/Users/danielalksnis/Sites/RecetteX/app/assets/javascripts/production-dashboard",
+			"/Users/danielalksnis/Sites/RecetteX/app/assets/javascripts",
+			"/Users/danielalksnis/Sites/RecetteX/app",
+			"/Users/danielalksnis/Sites/RecetteX/project",
+			"/Users/danielalksnis/Sites/RecetteX/app/assets",
+			"/Users/danielalksnis/Sites/RecetteX",
+			"<open files>,<open folders>",
+			"<open files>",
+			"sidebar.less",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"plug",
+			"follow",
+			"cover",
+			"logo",
+			".posts",
+			"allPosts",
+			"layout",
+			"path",
+			"arch",
+			"about",
+			"tag",
+			"photo",
+			"contact",
+			"contacts",
+			"PPO",
+			"date",
+			"hexo-theme-icarus",
+			"hexo",
+			"index.jade",
+			"getFabricInfo",
+			"console",
+			"cons",
+			"tap",
+			"console",
+			"build",
+			"*",
+			"vendorFabricCat",
+			"consol",
+			"'),\n",
+			"2",
+			"path",
+			"Carnegie",
+			"checkForImageURL2",
+			"openPhant",
+			"open",
+			"ph",
+			"tap",
+			"getIma",
+			"checkForImageURL2",
+			"tap",
+			"tap\\",
+			"tap",
+			"parseP",
+			"imageURL",
+			"openPhantomPage",
+			"evalua",
+			"nth-c",
+			"console",
+			"conso",
+			"console",
+			"groupBy",
+			"DOMPath",
+			"conso",
+			"main-content",
+			"product_view",
+			"product_",
+			"Cat",
+			"vendorFabricCat",
+			"console",
+			"consol",
+			"match",
+			"conso",
+			".and",
+			"/*",
+			"cons",
+			"console",
+			"?",
+			"\\",
+			"scale",
+			"drawInstructions",
+			"'",
+			"parsedHtml",
+			"imageContainerNotFound",
+			"console",
+			"conso",
+			"$",
+			"findContentElements",
+			"grape",
+			"isVi",
+			"casters",
+			"caster",
+			"price",
+			"when",
+			"\n  ",
+			"v-aligned",
+			"(',');\n",
+			"button",
+			";\n",
+			"box-sh",
+			"success",
+			"scrap",
+			"scrape",
+			"font-fa",
+			"patternVertical",
+			"values",
+			"fC.",
+			"stnd",
+			"/*",
+			"visible",
+			"specs",
+			"console",
+			"chairConfig",
+			"app",
+			"obj",
+			"admin-panel",
+			"thumb-container",
+			"thumbnail-containe",
+			"chair-builder",
+			"portfolio-item",
+			"button-option",
+			"all-seating-fab",
+			"    ",
+			"newVen",
+			"fP",
+			"admin",
+			"flat",
+			"selectC",
+			"NewsGo",
+			"price",
+			"partS",
+			"administrator",
+			"selectionValues",
+			"bundle.",
+			"consol",
+			"accordion-title",
+			"accordion-t",
+			"@",
+			"canvas"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\"",
+			"$",
+			"findContentElements",
+			"cPanCtrl.",
+			"router",
+			"pattern",
+			"fC",
+			"obCtrl.administrator",
+			"obCtrl.selectionValues",
+			"obCtrl.bundle.",
+			"selectionValues",
+			"galleryModal",
+			"",
+			"1.4.0",
+			"chairData",
+			"db",
+			"done =>",
+			"db",
+			"name",
+			"hostname",
+			"domain",
+			"swatchDimensions",
+			"drawLayer()",
+			"drawLayer.call(this)",
+			"ChairComponent.apply(this, arguments);",
+			"optionBundles",
+			"optionsBundle",
+			"bundle.bundleName",
+			"bundleName",
+			"meshPath",
+			"this.cushion",
+			"op.activeChair.hardwareLayers",
+			"this.chairComponents",
+			" ",
+			"{\"defaults\":[",
+			"\"",
+			"self",
+			"bsm",
+			"fP",
+			"upholsteryDirectory",
+			"self",
+			"clearmine/clearmine",
+			"../fonts/clearmine",
+			"",
+			"features",
+			"",
+			"specs",
+			"title",
+			"build",
+			"argv",
+			"'../../../",
+			"../",
+			"'",
+			"\"fabric_material\": \"",
+			"icon-holder-circle",
+			"'",
+			"simulationSrvc",
+			"mapSrvc",
+			"findBy",
+			"'",
+			"record",
+			"cluster-risk",
+			"transactionGroupingFunction",
+			"simInputs",
+			"scope",
+			"",
+			"$scope",
+			"filtering",
+			"rprtFilter",
+			"Filter",
+			"    function createSet(date) {\n      var monthYear = moment(date).format('MM-YYYY');\n      existingWeekFilter = existingWeekFilters[monthYear];\n      if (!!existingWeekFilter) {\n        return existingWeekFilter;\n      } else {\n        var weekFilter = buildWeekFilter(date);\n        existingWeekFilters[monthYear] = weekFilter;\n        return weekFilter;\n      }\n    }",
+			"    function createSet(date) {\n      var monthYear = moment(date).format('MM-YYYY');\n      existingWeekFilterSet = existingWeekFilterSets[monthYear];\n      if (!!existingWeekFilterSet) {\n        return existingWeekFilterSet;\n      } else {\n        var weekFilterSet = buildWeekFilterSet(date);\n        existingWeekFilterSets[monthYear] = weekFilterSet;\n        return weekFilterSet;\n      }\n    }",
+			"Filter",
+			"this",
+			"report",
+			"gridData",
+			"rowEntities",
+			":",
+			",",
+			"",
+			",",
+			":",
+			"locationFilter.filters",
+			"locationFilter",
+			"LocationFilter",
+			"div",
+			"setLocationFilter(",
+			"res",
+			"selection",
+			"source",
+			"selectedObject",
+			"setSelectedObject",
+			"getSelectedObject",
+			"activeMenuItem",
+			":",
+			"inner-ribbon-child",
+			"acc-dropdown-child",
+			"li",
+			"parentPKeyValue",
+			"prefixLength",
+			"",
+			"home",
+			"menu-bar",
+			"nav-bar-mixin",
+			"li",
+			" data-ng",
+			"",
+			"\"",
+			"Value",
+			"filterMaps",
+			"source",
+			"params",
+			"opt",
+			"wrkpFilteringServices",
+			"}",
+			"{",
+			"\"",
+			"th",
+			"orebodyLevel",
+			"span",
+			"div",
+			"selectedReport.",
+			"report",
+			"selection",
+			"$scope.show",
+			"label",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "themes/icarus/_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 130.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/about/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1378,
+								1378
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"spell_check": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/_posts/hello-world.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"spell_check": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/_posts/ClearMine.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "CNAME",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1960,
+								1960
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1086.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 140.0
+	},
+	"pinned_build_system": "",
+	"project": "danielalksnis.com.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"jasmi",
+				"spec/support/jasmine.json"
+			],
+			[
+				"data",
+				"src/js/services/catalogueDataRetrieval.js"
+			],
+			[
+				"mock",
+				"src/js/mock-backend.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"landing.",
+				"src/jade/landing-page/landing.jade"
+			],
+			[
+				"",
+				"config.inc.php"
+			],
+			[
+				"location",
+				"app/assets/templates/reportFilterBar/location-filter-menu.html"
+			],
+			[
+				"locat",
+				"app/assets/javascripts/production-dashboard/filtering/location-filter.js"
+			],
+			[
+				"ui-cust",
+				"public/ng-modules/ui-bootstrap-custom-0.12.0/js/ui-bootstrap-custom.js"
+			],
+			[
+				"grid-optn",
+				"app/assets/javascripts/production-dashboard/grid/grid-optn-mngr.js"
+			],
+			[
+				"ui-boo",
+				"public/ng-modules/ui-bootstrap-custom-0.12.0/js/ui-bootstrap-custom.js"
+			],
+			[
+				"bootrapcu",
+				"public/ng-modules/ui-bootstrap-custom-0.12.0/js/ui-bootstrap-custom.js"
+			],
+			[
+				"main",
+				"app/assets/javascripts/index/main.js"
+			],
+			[
+				"app.",
+				"target/web/rjs/appdir/javascripts/app.js"
+			],
+			[
+				"prod",
+				"app/assets/templates/pages/prod-summary-reports.html"
+			],
+			[
+				"ui-b",
+				"public/ng-modules/ui-bootstrap-custom-0.12.0/js/ui-bootstrap-custom.js"
+			],
+			[
+				"develop",
+				"app/models/DevelopmentObjective.scala"
+			],
+			[
+				"devobjec",
+				"app/controllers/DevObjectives.scala"
+			],
+			[
+				"json",
+				"app/assets/javascripts/common/services/jsonAPIServices.js"
+			],
+			[
+				"ore",
+				"app/models/Orebody.scala"
+			],
+			[
+				"uiboo",
+				"public/ng-modules/ui-bootstrap-custom-0.12.0/js/ui-bootstrap-custom.js"
+			],
+			[
+				"main.js",
+				"app/assets/javascripts/main.js"
+			],
+			[
+				"build",
+				"build.sbt"
+			],
+			[
+				"orebod",
+				"app/models/Orebody.scala"
+			],
+			[
+				"tree",
+				"app/assets/javascripts/common/services/treeService.js"
+			],
+			[
+				"grid",
+				"app/assets/javascripts/common/services/gridOptionsServices.js"
+			],
+			[
+				"rou",
+				"app/assets/javascripts/index/routes.js"
+			],
+			[
+				"ribbon",
+				"app/assets/stylesheets/ribbon.less"
+			],
+			[
+				"stick",
+				"app/assets/stylesheets/sticky-tab.less"
+			],
+			[
+				"grido",
+				"app/assets/javascripts/common/services/gridOptionsServices.js"
+			],
+			[
+				"wrkp",
+				"app/assets/javascripts/common/services/wrkpFilteringServices.js"
+			],
+			[
+				"oreb",
+				"app/models/OrebodyLevel.scala"
+			],
+			[
+				"wrk",
+				"app/assets/javascripts/common/services/wrkpFilteringServices.js"
+			],
+			[
+				"bootr",
+				"public/ng-modules/ui-bootstrap-custom-0.12.0/js/ui-bootstrap-custom.js"
+			],
+			[
+				"trees",
+				"app/assets/javascripts/common/services/treeService.js"
+			],
+			[
+				"leve",
+				"app/models/OrebodyLevel.scala"
+			],
+			[
+				"mine",
+				"app/models/Mine.scala"
+			],
+			[
+				"orebd",
+				"app/controllers/Orebodies.scala"
+			],
+			[
+				"ribb",
+				"app/assets/stylesheets/ribbon.less"
+			],
+			[
+				"boot",
+				"public/ng-modules/ui-bootstrap-custom-0.12.0/js/ui-bootstrap-custom.js"
+			],
+			[
+				"ribbo",
+				"app/assets/stylesheets/ribbon.less"
+			],
+			[
+				"angular-tree",
+				"target/web/public/main/lib/angular-tree-control/angular-tree-control.js"
+			],
+			[
+				"mng",
+				"app/assets/templates/pages/mng-wrkp.html"
+			],
+			[
+				"contr",
+				"app/assets/javascripts/index/controllers.js"
+			],
+			[
+				"app.j",
+				"target/web/public/main/javascripts/app.js"
+			],
+			[
+				"boots",
+				"public/ng-modules/ui-bootstrap-custom-0.12.0/js/ui-bootstrap-custom.js"
+			],
+			[
+				"direc",
+				"app/assets/javascripts/index/directives.js"
+			],
+			[
+				"pr",
+				"app/assets/templates/pages/prod-summary-reports.html"
+			],
+			[
+				"pro",
+				"app/assets/templates/pages/prod-summary.html"
+			],
+			[
+				"index",
+				"app/views/index.scala.html"
+			],
+			[
+				"men",
+				"app/assets/stylesheets/menu-bar.less"
+			],
+			[
+				"new",
+				"app/assets/templates/ui-bricks/new-filter-template.html"
+			],
+			[
+				"menu",
+				"app/assets/stylesheets/menu-bar.less"
+			],
+			[
+				"con",
+				"app/assets/javascripts/index/controllers.js"
+			],
+			[
+				"routes",
+				"app/assets/javascripts/index/routes.js"
+			],
+			[
+				"conto",
+				"app/assets/javascripts/index/controllers.js"
+			],
+			[
+				"app",
+				"target/scala-2.11/classes/application.conf"
+			],
+			[
+				"contro",
+				"app/assets/javascripts/index/controllers.js"
+			],
+			[
+				"applica",
+				"conf/application.conf"
+			],
+			[
+				"home",
+				"app/assets/templates/home.html"
+			],
+			[
+				"main.less",
+				"app/assets/stylesheets/main.less"
+			],
+			[
+				"helper",
+				"app/assets/javascripts/common/services/helpers.js"
+			],
+			[
+				"treeser",
+				"app/assets/javascripts/common/services/treeService.js"
+			],
+			[
+				"main.ht",
+				"app/assets/templates/main.html"
+			],
+			[
+				"main.",
+				"app/assets/javascripts/main.js"
+			],
+			[
+				"grap",
+				"app/assets/javascripts/common/services/graphingServices.js"
+			],
+			[
+				"buil",
+				"build.sbt"
+			],
+			[
+				"app.c",
+				"conf/application.conf"
+			],
+			[
+				"graph",
+				"app/assets/javascripts/common/services/graphingServices.js"
+			],
+			[
+				"user",
+				"app/assets/javascripts/common/services/userServices.js"
+			],
+			[
+				"jsona",
+				"app/assets/javascripts/common/services/jsonAPIServices.js"
+			],
+			[
+				"app.js",
+				"target/web/public/main/javascripts/app.js"
+			],
+			[
+				"inde",
+				"app/views/index.scala.html"
+			],
+			[
+				"rout",
+				"app/assets/javascripts/index/routes.js"
+			],
+			[
+				"applic",
+				"logs/application.log"
+			],
+			[
+				"build.pro",
+				"project/build.properties"
+			],
+			[
+				"dail",
+				"app/models/DailyDevRecord.scala"
+			],
+			[
+				"plugin",
+				"project/plugins.sbt"
+			],
+			[
+				"glo",
+				"app/Global.scala"
+			],
+			[
+				"appl",
+				"conf/application.conf"
+			],
+			[
+				"cont",
+				"app/assets/javascripts/index/controllers.js"
+			],
+			[
+				"route",
+				"app/assets/javascripts/index/routes.js"
+			],
+			[
+				"menu-",
+				"app/assets/stylesheets/menu-bar.less"
+			],
+			[
+				"nav",
+				"app/assets/stylesheets/bootstrap/navbar.less"
+			],
+			[
+				"users",
+				"app/assets/javascripts/common/services/userServices.js"
+			],
+			[
+				"prod-s",
+				"app/assets/templates/pages/prod-summary-reports.html"
+			],
+			[
+				"ro",
+				"app/assets/javascripts/index/routes.js"
+			],
+			[
+				"gridopt",
+				"app/assets/javascripts/common/services/gridOptionsServices.js"
+			],
+			[
+				"mana",
+				"app/assets/trash/manageWorkplaces.html"
+			],
+			[
+				"login",
+				"app/assets/templates/login.html"
+			],
+			[
+				"main.les",
+				"app/assets/stylesheets/main.less"
+			],
+			[
+				"prod-su",
+				"app/assets/templates/pages/prod-summary-reports.html"
+			],
+			[
+				"form-l",
+				"app/assets/templates/ui-bricks/form-login.html"
+			],
+			[
+				"main.le",
+				"app/assets/stylesheets/main.less"
+			],
+			[
+				"header-c",
+				"app/assets/templates/ui-bricks/header-cell-no-filter.html"
+			],
+			[
+				"ignore",
+				".gitignore"
+			],
+			[
+				"misc",
+				"app/assets/trash/miscJunk.js.ignore"
+			],
+			[
+				"services",
+				"app/assets/javascripts/common/services/wrkpFilteringServices.js"
+			],
+			[
+				"global",
+				"app/Global.scala"
+			],
+			[
+				"dire",
+				"app/assets/javascripts/index/directives.js"
+			],
+			[
+				"gra",
+				"app/assets/javascripts/common/services/graphingServices.js"
+			],
+			[
+				"app.s",
+				"app/assets/javascripts/app.js"
+			],
+			[
+				"d3-js",
+				"app/assets/javascripts/d3-js/line-chart-demo.js"
+			],
+			[
+				"roues",
+				"app/assets/javascripts/index/routes.js"
+			],
+			[
+				"line",
+				"app/assets/javascripts/d3-js/lineChartDemo.js"
+			],
+			[
+				"devo",
+				"app/controllers/DevObjectives.scala"
+			],
+			[
+				"dev",
+				"app/controllers/DevObjectives.scala"
+			],
+			[
+				"jsopn",
+				"app/assets/javascripts/common/services/jsonAPIServices.js"
+			],
+			[
+				"orebody",
+				"app/models/OrebodyLevel.scala"
+			],
+			[
+				"deve",
+				"app/controllers/Developments.scala"
+			],
+			[
+				"ui-grid",
+				"target/web/public/main/lib/ui-grid/ui-grid-unstable.js"
+			],
+			[
+				"brow",
+				"app/assets/javascripts/common/directives/wrkpBrowser.js"
+			],
+			[
+				"row",
+				"app/assets/templates/wrkp-browser/row.html"
+			],
+			[
+				"browse",
+				"app/assets/javascripts/common/directives/wrkpBrowser.js"
+			],
+			[
+				"browser",
+				"app/assets/templates/wrkp-browser/browser-instance.html"
+			],
+			[
+				"inp",
+				"app/assets/templates/wrkp-browser/input-form.html"
+			],
+			[
+				"tree-",
+				"app/assets/stylesheets/tree-control.less"
+			],
+			[
+				"bro",
+				"app/assets/stylesheets/browser.less"
+			],
+			[
+				"filter-se",
+				"app/assets/templates/ui-bricks/filter-set.html"
+			],
+			[
+				"fil",
+				"app/assets/templates/ui-bricks/filter-panel.html"
+			],
+			[
+				"dir",
+				"app/assets/javascripts/index/directives.js"
+			],
+			[
+				"date",
+				"public/ng-modules/ng-datetimepicker/js/datetimepicker.js"
+			],
+			[
+				"filter",
+				"app/assets/templates/ui-bricks/filter-panel.html"
+			],
+			[
+				"week",
+				"app/assets/templates/report-panel/weekly-obj-report.html"
+			],
+			[
+				"report",
+				"app/assets/javascripts/common/directives/reportPanel.js"
+			],
+			[
+				"dai",
+				"app/controllers/DailyDevRecords.scala"
+			],
+			[
+				"var",
+				"app/assets/stylesheets/kube/variables.less"
+			],
+			[
+				"varia",
+				"app/assets/stylesheets/bootstrap/variables.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/clearmine.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 430.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
