@@ -70,7 +70,7 @@ plugins:
 - hexo-generator-cname
 
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: icarus
+theme: daedalus
 
 # Disqus
 # disqus_shortname: hexo-theme-icarus
