@@ -10,7 +10,6 @@ author: Daniel Alksnis
 author_title: 'Engineer, Programmer & Designer'
 avatar: images/avatar.png
 location: 'Toronto, Canada'
-#follow: https://github.com/ppoffice/
 language: en
 timezone:
 since: 2015 # The start year showing in your copyright section.
@@ -49,8 +48,10 @@ highlight:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
-tag_map:
+category_map: bar-category
+tag_map: foo-tag
+sitemap:
+    path: sitemap.xml
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
