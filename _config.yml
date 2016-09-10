@@ -68,7 +68,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 plugins:
-- hexo-generator-cname
+  - hexo-thumbnails
 
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: daedalus
@@ -86,3 +86,15 @@ deploy:
   type: git
   repository: https://github.com/st3xupery/st3xupery.github.io
   branch: master
+
+thumbnails:
+  profiles:
+    smallThumb:
+      resize:
+        - null
+        - 100
+      crop:
+        - 100
+        - 100
+        - 0
+        - 0

@@ -3,6 +3,7 @@ menu:
   Home: .
   About: about/biography
   Archives: archives
+  Portfolio: categories/Portfolio
 
 # Customize
 customize:
