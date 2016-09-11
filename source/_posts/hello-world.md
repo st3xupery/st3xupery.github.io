@@ -1,5 +1,6 @@
 title: Hello World, This is Daniel
 banner: /images/post-banner/hello-world.jpg
+date: 2016-02-22
 tags:
   - introductions
 ---

@@ -303,3 +303,306 @@ expected "indent", got ";"
     at Promise._settlePromises (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:691:18)
     at Async._drainQueue (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:138:16)
     at Async._drainQueues (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:148:10)
+ERROR Asset render failed: css/style.css
+Error: /home/daniel/Documents/st3xupery.github.io/themes/daedalus/source/css/style.styl:167:9
+   163| #header
+   164| 	top: 0;
+   165| 	position: fixed;
+   166| 
+   167| @import "_extend"
+----------------^
+   168| @import "_partial/header"
+   169| @import "_partial/profile"
+   170| @import "_partial/article"
+
+failed to locate @import file _extend.styl
+
+    at Evaluator.visitImport (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:897:21)
+    at Evaluator.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Evaluator.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:153:18)
+    at Evaluator.visitRoot (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:689:27)
+    at Evaluator.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Evaluator.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:153:18)
+    at Evaluator.evaluate (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:229:15)
+    at Renderer.render (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/renderer.js:86:26)
+    at Hexo.module.exports (/home/daniel/Documents/st3xupery.github.io/node_modules/hexo-renderer-stylus/lib/renderer.js:45:6)
+    at Hexo.tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Hexo.ret (eval at <anonymous> (/home/daniel/.nvm/versions/node/v6.2.1/lib/node_modules/hexo-cli/node_modules/bluebird/js/release/promisify.js:1:0), <anonymous>:13:39)
+    at /home/daniel/Documents/st3xupery.github.io/node_modules/hexo/lib/hexo/render.js:61:21
+    at tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:510:31)
+    at Promise._settlePromise (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:567:18)
+    at Promise._settlePromise0 (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:612:10)
+    at Promise._settlePromises (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:691:18)
+    at Async._drainQueue (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:138:16)
+    at Async._drainQueues (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:148:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:17:14)
+    at tryOnImmediate (timers.js:543:15)
+    at processImmediate [as _immediateCallback] (timers.js:523:5)
+ERROR Asset render failed: css/style.css
+Error: /home/daniel/Documents/st3xupery.github.io/themes/daedalus/source/css/style.styl:20:10
+   16| 	&::-moz-focus-inner
+   17| 		border: 0
+   18| 		padding: 0
+   19| 
+   20| html, body, #container
+----------------^
+   21| 	height: 100%
+   22| 
+   23| body
+
+Failed to @extend "$block-caption"
+
+    at /home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:406:17
+    at Array.forEach (native)
+    at Normalizer.extend (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:402:28)
+    at Normalizer.visitGroup (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:276:8)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.visitBlock (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:229:27)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.visitBlock (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:229:27)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.visitRoot (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:167:23)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.normalize (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:53:18)
+    at Renderer.render (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/renderer.js:90:22)
+    at Hexo.module.exports (/home/daniel/Documents/st3xupery.github.io/node_modules/hexo-renderer-stylus/lib/renderer.js:45:6)
+    at Hexo.tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Hexo.ret (eval at <anonymous> (/home/daniel/.nvm/versions/node/v6.2.1/lib/node_modules/hexo-cli/node_modules/bluebird/js/release/promisify.js:1:0), <anonymous>:13:39)
+    at /home/daniel/Documents/st3xupery.github.io/node_modules/hexo/lib/hexo/render.js:61:21
+    at tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:510:31)
+    at Promise._settlePromise (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:567:18)
+    at Promise._settlePromise0 (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:612:10)
+    at Promise._settlePromises (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:691:18)
+    at Async._drainQueue (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:138:16)
+    at Async._drainQueues (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:148:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:17:14)
+    at tryOnImmediate (timers.js:543:15)
+    at processImmediate [as _immediateCallback] (timers.js:523:5)
+ERROR Asset render failed: css/style.css
+Error: /home/daniel/Documents/st3xupery.github.io/themes/daedalus/source/css/style.styl:2:13
+   1| @import "nib"
+   2| @import "_variables"
+------------------^
+   3| 
+   4| global-reset()
+   5| 
+
+Failed to @extend "$block"
+
+    at /home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:406:17
+    at Array.forEach (native)
+    at Normalizer.extend (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:402:28)
+    at Normalizer.visitGroup (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:276:8)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.visitBlock (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:229:27)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.visitBlock (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:229:27)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.visitRoot (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:167:23)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.normalize (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:53:18)
+    at Renderer.render (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/renderer.js:90:22)
+    at Hexo.module.exports (/home/daniel/Documents/st3xupery.github.io/node_modules/hexo-renderer-stylus/lib/renderer.js:45:6)
+    at Hexo.tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Hexo.ret (eval at <anonymous> (/home/daniel/.nvm/versions/node/v6.2.1/lib/node_modules/hexo-cli/node_modules/bluebird/js/release/promisify.js:1:0), <anonymous>:13:39)
+    at /home/daniel/Documents/st3xupery.github.io/node_modules/hexo/lib/hexo/render.js:61:21
+    at tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:510:31)
+    at Promise._settlePromise (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:567:18)
+    at Promise._settlePromise0 (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:612:10)
+    at Promise._settlePromises (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:691:18)
+    at Async._drainQueue (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:138:16)
+    at Async._drainQueues (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:148:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:17:14)
+    at tryOnImmediate (timers.js:543:15)
+    at processImmediate [as _immediateCallback] (timers.js:523:5)
+ERROR Asset render failed: css/style.css
+Error: /home/daniel/Documents/st3xupery.github.io/themes/daedalus/source/css/style.styl:2:13
+   1| @import "nib"
+   2| @import "_variables"
+------------------^
+   3| 
+   4| global-reset()
+   5| 
+
+Failed to @extend "$block"
+
+    at /home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:406:17
+    at Array.forEach (native)
+    at Normalizer.extend (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:402:28)
+    at Normalizer.visitGroup (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:276:8)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.visitBlock (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:229:27)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.visitBlock (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:229:27)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.visitRoot (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:167:23)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.normalize (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:53:18)
+    at Renderer.render (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/renderer.js:90:22)
+    at Hexo.module.exports (/home/daniel/Documents/st3xupery.github.io/node_modules/hexo-renderer-stylus/lib/renderer.js:45:6)
+    at Hexo.tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Hexo.ret (eval at <anonymous> (/home/daniel/.nvm/versions/node/v6.2.1/lib/node_modules/hexo-cli/node_modules/bluebird/js/release/promisify.js:1:0), <anonymous>:13:39)
+    at /home/daniel/Documents/st3xupery.github.io/node_modules/hexo/lib/hexo/render.js:61:21
+    at tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:510:31)
+    at Promise._settlePromise (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:567:18)
+    at Promise._settlePromise0 (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:612:10)
+    at Promise._settlePromises (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:691:18)
+    at Async._drainQueue (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:138:16)
+    at Async._drainQueues (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:148:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:17:14)
+    at tryOnImmediate (timers.js:543:15)
+    at processImmediate [as _immediateCallback] (timers.js:523:5)
+ERROR Asset render failed: css/style.css
+Error: /home/daniel/Documents/st3xupery.github.io/themes/daedalus/source/css/style.styl:2:13
+   1| @import "nib"
+   2| @import "_variables"
+------------------^
+   3| 
+   4| global-reset()
+   5| 
+
+Failed to @extend "$block"
+
+    at /home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:406:17
+    at Array.forEach (native)
+    at Normalizer.extend (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:402:28)
+    at Normalizer.visitGroup (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:276:8)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.visitBlock (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:229:27)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.visitBlock (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:229:27)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.visitRoot (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:167:23)
+    at Normalizer.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Normalizer.normalize (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/normalizer.js:53:18)
+    at Renderer.render (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/renderer.js:90:22)
+    at Hexo.module.exports (/home/daniel/Documents/st3xupery.github.io/node_modules/hexo-renderer-stylus/lib/renderer.js:45:6)
+    at Hexo.tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Hexo.ret (eval at <anonymous> (/home/daniel/.nvm/versions/node/v6.2.1/lib/node_modules/hexo-cli/node_modules/bluebird/js/release/promisify.js:1:0), <anonymous>:13:39)
+    at /home/daniel/Documents/st3xupery.github.io/node_modules/hexo/lib/hexo/render.js:61:21
+    at tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:510:31)
+    at Promise._settlePromise (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:567:18)
+    at Promise._settlePromise0 (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:612:10)
+    at Promise._settlePromises (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:691:18)
+    at Async._drainQueue (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:138:16)
+    at Async._drainQueues (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:148:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:17:14)
+    at tryOnImmediate (timers.js:543:15)
+    at processImmediate [as _immediateCallback] (timers.js:523:5)
+Usage: hexo <command>
+
+Commands:
+  clean     Removed generated files and cache.
+  config    Get or set configurations.
+  deploy    Deploy your website.
+  generate  Generate static files.
+  help      Get help on a command.
+  init      Create a new Hexo folder.
+  list      List the information of the site
+  migrate   Migrate your site from other system to Hexo.
+  new       Create a new post.
+  publish   Moves a draft post from _drafts to _posts folder.
+  render    Render files with renderer plugins.
+  version   Display version information.
+
+Global Options:
+  --config  Specify config file instead of using _config.yml
+  --cwd     Specify the CWD
+  --debug   Display all verbose messages in the terminal
+  --draft   Display draft posts
+  --safe    Disable all plugins and scripts
+  --silent  Hide output on console
+
+For more help, you can use 'hexo help [command]' for the detailed information
+or you can check the docs: http://hexo.io/docs/
+INFO  Start processing
+INFO  Hexo is running at http://0.0.0.0:4000/. Press Ctrl+C to stop.
+ERROR Asset render failed: css/style.css
+ParseError: /home/daniel/Documents/st3xupery.github.io/themes/daedalus/source/css/_partial/article.styl:144:23
+   140|     font-family: FontAwesome;
+   141|     padding-right: 5px;
+   142| }
+   143| .article-footer
+   144|     font-size: 0.85em;
+------------------------------^
+   145|     line-height: 1.6em;
+   146|     border-top: 1px dashed #da523d;
+   147|     padding-top: .6em;
+
+expected "indent", got ";"
+
+    at Parser.error (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:257:11)
+    at Parser.expect (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:285:12)
+    at Parser.block (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:823:12)
+    at Parser.selector (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:1524:24)
+    at Parser.stmt (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:780:27)
+    at Parser.statement (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:669:21)
+    at Parser.parse (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:234:25)
+    at Evaluator.importFile (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:73:20)
+    at Evaluator.visitImport (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:902:27)
+    at Evaluator.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Evaluator.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:153:18)
+    at Evaluator.visitRoot (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:689:27)
+    at Evaluator.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Evaluator.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:153:18)
+    at Evaluator.evaluate (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:229:15)
+    at Renderer.render (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/renderer.js:86:26)
+    at Hexo.module.exports (/home/daniel/Documents/st3xupery.github.io/node_modules/hexo-renderer-stylus/lib/renderer.js:45:6)
+    at Hexo.tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Hexo.ret (eval at <anonymous> (/home/daniel/.nvm/versions/node/v6.2.1/lib/node_modules/hexo-cli/node_modules/bluebird/js/release/promisify.js:1:0), <anonymous>:13:39)
+    at /home/daniel/Documents/st3xupery.github.io/node_modules/hexo/lib/hexo/render.js:61:21
+    at tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:510:31)
+    at Promise._settlePromise (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:567:18)
+    at Promise._settlePromise0 (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:612:10)
+    at Promise._settlePromises (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:691:18)
+    at Async._drainQueue (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:138:16)
+    at Async._drainQueues (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:148:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:17:14)
+ERROR Asset render failed: css/style.css
+ParseError: /home/daniel/Documents/st3xupery.github.io/themes/daedalus/source/css/_partial/article.styl:144:23
+   140|     font-family: FontAwesome;
+   141|     padding-right: 5px;
+   142| }
+   143| .article-footer
+   144|     font-size: 0.85em;
+------------------------------^
+   145|     line-height: 1.6em;
+   146|     border-top: 1px dashed #da523d;
+   147|     padding-top: .6em;
+
+expected "indent", got ";"
+
+    at Parser.error (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:257:11)
+    at Parser.expect (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:285:12)
+    at Parser.block (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:823:12)
+    at Parser.selector (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:1524:24)
+    at Parser.stmt (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:780:27)
+    at Parser.statement (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:669:21)
+    at Parser.parse (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/parser.js:234:25)
+    at Evaluator.importFile (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:73:20)
+    at Evaluator.visitImport (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:902:27)
+    at Evaluator.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Evaluator.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:153:18)
+    at Evaluator.visitRoot (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:689:27)
+    at Evaluator.Visitor.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/index.js:28:40)
+    at Evaluator.visit (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:153:18)
+    at Evaluator.evaluate (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/visitor/evaluator.js:229:15)
+    at Renderer.render (/home/daniel/Documents/st3xupery.github.io/node_modules/stylus/lib/renderer.js:86:26)
+    at Hexo.module.exports (/home/daniel/Documents/st3xupery.github.io/node_modules/hexo-renderer-stylus/lib/renderer.js:45:6)
+    at Hexo.tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Hexo.ret (eval at <anonymous> (/home/daniel/.nvm/versions/node/v6.2.1/lib/node_modules/hexo-cli/node_modules/bluebird/js/release/promisify.js:1:0), <anonymous>:13:39)
+    at /home/daniel/Documents/st3xupery.github.io/node_modules/hexo/lib/hexo/render.js:61:21
+    at tryCatcher (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:510:31)
+    at Promise._settlePromise (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:567:18)
+    at Promise._settlePromise0 (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:612:10)
+    at Promise._settlePromises (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/promise.js:691:18)
+    at Async._drainQueue (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:138:16)
+    at Async._drainQueues (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:148:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/daniel/Documents/st3xupery.github.io/node_modules/bluebird/js/release/async.js:17:14)
