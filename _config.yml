@@ -65,11 +65,6 @@ time_format: HH:mm:ss
 per_page: 6
 pagination_dir: page
 
-# Extensions
-## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
-plugins:
-  # - hexo-thumbnails
-
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: daedalus
 
@@ -78,7 +73,6 @@ theme: daedalus
 
 # DuoShuo
 # duoshuo_shortname: hexo-theme-icarus
-
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -98,3 +92,11 @@ thumbnails:
         - 100
         - 0
         - 0
+toc:
+  maxdepth: 3
+  class: toc
+  slugify: transliteration
+  anchor:
+    position: after
+    symbol: '#'
+    style: header-anchor

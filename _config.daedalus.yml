@@ -12,6 +12,8 @@ customize:
         width: 40
         height: 40
         url: images/logo.png
+    color:
+      accent: "#da523d"
     profile:
         enabled: true # Whether to show profile bar
         avatar: images/profile.png
