@@ -777,11 +777,10 @@ header nav a:nth-child(even) {
   z-index: 1000;
   top: 0;
   text-align: left;
+  color: #2c463f;
 }
 @media screen and (min-width: 768px) {
   #profile > .profile-block:first-child {
-    background-color: #347749;
-    color: #fff;
     text-align: center;
   }
 }
