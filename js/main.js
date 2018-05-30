@@ -39,13 +39,13 @@
 		return toggleMainNav;
 	};
 
-	function sticky(el, className) {
+	function sticky(el, className, buffer) {
 		if (!className) className = 'stuck';
-		var elOffsetTop = el.getBoundingClientRect().top + document.body.scrollTop;
+		if (!buffer) buffer = 0;
 		var elSub = document.createElement('div');
 
 		function scrollerReverse() {
-			if (elOffsetTop >= window.pageYOffset) {
+			if (window.pageYOffset <= 0) {
 				el.classList.remove(className);
 				el.parentNode.removeChild(elSub);
 				window.removeEventListener('scroll', scrollerReverse);
@@ -54,7 +54,7 @@
 		}
 
 		function scroller() {
-			if (elOffsetTop < window.pageYOffset) {
+			if (buffer < window.pageYOffset) {
 				elSub.style.height = el.offsetHeight + 'px';
 				el.parentNode.insertBefore(elSub, el.nextSibling);
 				el.classList.add(className);
@@ -68,7 +68,8 @@
 	module.sticky = sticky;
 })();
 
-sticky(document.getElementById('page-header'), 'docked');
+sticky(document.getElementById('page-header'), 'docked', 200);
+sticky(document.getElementById('page-title-ribbon'), 'docked', 200);
 
 // Directives
 (function(){
