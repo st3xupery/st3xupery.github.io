@@ -522,7 +522,6 @@ header nav a:nth-child(even) {
   display: inline-block;
   position: relative;
   color: #3f3f3f;
-  text-shadow: 0 1px #fff;
 }
 .profile-block.social-links a:before,
 .article-share-links a:before {
@@ -541,42 +540,36 @@ header nav a:nth-child(even) {
 }
 .share-twitter:hover {
   background: #00aced;
-  text-shadow: 0 1px #008abe;
 }
 .share-facebook:before {
   content: "\f09a";
 }
 .share-facebook:hover {
   background: #3b5998;
-  text-shadow: 0 1px #2f477a;
 }
 .share-pinterest:before {
   content: "\f231";
 }
 .share-pinterest:hover {
   background: #cb2027;
-  text-shadow: 0 1px #a21a1f;
 }
 .share-google:before {
   content: "\f1a0";
 }
 .share-google:hover {
   background: #dd4b39;
-  text-shadow: 0 1px #be3221;
 }
 .share-github:before {
   content: "\f09b";
 }
 .share-github:hover {
   background: #000;
-  text-shadow: 0 1px #000;
 }
 .share-linkedin:before {
   content: "\f0e1";
 }
 .share-linkedin:hover {
   background: #4875b4;
-  text-shadow: 0 1px #3a5e90;
 }
 #profile {
   position: absolute;
@@ -938,14 +931,11 @@ article footer a:before {
   text-decoration: none !important;
   display: inline-block;
   width: 100%;
-  border-bottom: 1px solid #cecece;
-}
-.article-more-link span,
-.article-more-link:before {
-  -webkit-transition-duration: 0.6s;
-  -moz-transition-duration: 0.6s;
-  -ms-transition-duration: 0.6s;
-  transition-duration: 0.6s;
+  border-bottom: 1px solid #f9f9f9;
+  -webkit-transition-duration: 0.4s;
+  -moz-transition-duration: 0.4s;
+  -ms-transition-duration: 0.4s;
+  transition-duration: 0.4s;
 }
 .article-more-link:hover {
   border-bottom-color: #d7443f;
@@ -956,8 +946,12 @@ article footer a:before {
   opacity: 1;
 }
 .article-more-link span {
-  color: #fff;
-  background: #b0b1b3;
+  -webkit-transition-duration: 0.4s;
+  -moz-transition-duration: 0.4s;
+  -ms-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  color: #d7443f;
+  background: #f9f9f9;
   display: inline-block;
   position: relative;
   z-index: 2;
@@ -1141,9 +1135,9 @@ article footer a:before {
   }
 }
 .article-nav-link-wrap {
-  background: #f1ece9;
-  -webkit-box-shadow: 0px 6px 0px -4px rgba(0,0,0,0.15);
-  box-shadow: 0px 6px 0px -4px rgba(0,0,0,0.15);
+  background: #f9f9f9;
+  -webkit-box-shadow: 2px 2px rgba(0,0,0,0.15);
+  box-shadow: 2px 2px rgba(0,0,0,0.15);
   text-decoration: none;
   margin: 20px 0;
   display: block;
