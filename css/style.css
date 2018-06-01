@@ -812,7 +812,7 @@ header nav a:nth-child(even) {
 }
 @media screen and (min-width: 768px) {
   #page-title-ribbon {
-    width: auto;
+    width: inherit;
     font-size: 1.75em;
     text-align: center;
     padding: 60px 0 0 0;
