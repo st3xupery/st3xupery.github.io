@@ -381,10 +381,9 @@ h1 {
 }
 #page-header [data-toggle-menu] {
   font-size: 80%;
-  position: absolute;
+  position: fixed;
   background: #333a42;
   visibility: hidden;
-  opacity: 0;
   -webkit-transition: ease 0.2s;
   -moz-transition: ease 0.2s;
   -ms-transition: ease 0.2s;
@@ -393,11 +392,11 @@ h1 {
 }
 @media screen and (min-width: 768px) {
   #page-header [data-toggle-menu] {
+    position: static;
     width: 100%;
     visibility: visible;
     opacity: 1;
     background: transparent;
-    position: static;
     display: block;
   }
 }
@@ -518,38 +517,6 @@ header nav a:nth-child(even) {
 .search-form-input.st-default-search-input::-webkit-search-cancel-button {
   -webkit-appearance: none;
 }
-@-moz-keyframes scrollin-right {
-  0% {
-    right: -100px;
-  }
-  100% {
-    right: 0px;
-  }
-}
-@-webkit-keyframes scrollin-right {
-  0% {
-    right: -100px;
-  }
-  100% {
-    right: 0px;
-  }
-}
-@-o-keyframes scrollin-right {
-  0% {
-    right: -100px;
-  }
-  100% {
-    right: 0px;
-  }
-}
-@keyframes scrollin-right {
-  0% {
-    right: -100px;
-  }
-  100% {
-    right: 0px;
-  }
-}
 .article-share-links a {
   width: 50px;
   line-height: 36px;
@@ -635,28 +602,23 @@ header nav a:nth-child(even) {
   height: auto;
 }
 #profile [data-toggle-menu] {
+  -webkit-transition: top 0.2s ease;
+  -moz-transition: top 0.2s ease;
+  -ms-transition: top 0.2s ease;
+  transition: top 0.2s ease;
+  top: -200px;
   position: relative;
   width: 100%;
 }
 @media screen and (min-width: 768px) {
   #profile [data-toggle-menu] {
+    top: 0;
     visibility: visible;
   }
 }
 #profile.on [data-toggle-menu] {
   margin-top: 5px;
-  -webkit-animation: scrollin 0.4s;
-  -moz-animation: scrollin 0.4s;
-  -ms-animation: scrollin 0.4s;
-  animation: scrollin 0.4s;
-}
-@media screen and (min-width: 768px) {
-  #profile.on [data-toggle-menu] {
-    -webkit-animation: none;
-    -moz-animation: none;
-    -ms-animation: none;
-    animation: none;
-  }
+  top: 0;
 }
 .on .profile-block.name:before {
   -webkit-transform: rotate(0);
