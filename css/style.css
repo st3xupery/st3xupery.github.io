@@ -133,12 +133,12 @@ strong {
 button {
   border: none;
   cursor: pointer;
-  background-color: #565a5f;
-  color: #f9f9f9;
+  background-color: #3f3f3f;
+  color: #f1ece9;
   border-radius: 0 0.6em;
 }
 button:hover {
-  background-color: #333a42;
+  background-color: #d7443f;
   color: #fff;
 }
 input,
@@ -165,7 +165,7 @@ body,
   height: 100%;
 }
 body {
-  color: #565a5f;
+  color: #3f3f3f;
   font-family: KlinicSlab, Helvetica, Arial, sans-serif;
 }
 a {
@@ -192,7 +192,7 @@ h1 {
   font-size: 2.3em;
 }
 h1 a {
-  color: #565a5f;
+  color: #3f3f3f;
 }
 h1 a:hover {
   color: #d7443f;
@@ -319,14 +319,6 @@ body > aside {
   top: 0;
   position: fixed;
 }
-#page-header {
-  background-color: #f1ece9;
-}
-@media screen and (min-width: 768px) {
-  #page-header {
-    padding-top: 60px;
-  }
-}
 h1 {
   font-weight: 600;
 }
@@ -338,6 +330,7 @@ h1 {
   font-size: 1.9em;
 }
 #page-header {
+  background-color: #f1ece9;
   z-index: 10;
   font-size: 1.5em;
   line-height: 50px;
@@ -349,6 +342,7 @@ h1 {
     line-height: 30px;
     height: 34px;
     text-align: left;
+    padding-top: 60px;
   }
 }
 #page-header.docked {
@@ -357,6 +351,7 @@ h1 {
   -ms-animation: scrollin 1s;
   animation: scrollin 1s;
   position: fixed;
+  border-bottom: 1px solid #fff;
 }
 @media screen and (min-width: 768px) {
   #page-header.docked {
@@ -371,7 +366,7 @@ h1 {
 #page-header [data-toggle-button] {
   display: inline-block;
   width: 50px;
-  border-left: 1px solid #565a5f;
+  border-left: 1px solid #3f3f3f;
   text-align: center;
 }
 @media screen and (min-width: 768px) {
@@ -382,7 +377,7 @@ h1 {
 #page-header [data-toggle-menu] {
   font-size: 80%;
   position: fixed;
-  background: #333a42;
+  background: #d7443f;
   visibility: hidden;
   -webkit-transition: ease 0.2s;
   -moz-transition: ease 0.2s;
@@ -411,9 +406,9 @@ h1 {
 }
 @media screen and (min-width: 768px) {
   #page-header nav a:hover {
-    color: #333a42;
-    -webkit-box-shadow: 0px 6px 0px 0px #333a42;
-    box-shadow: 0px 6px 0px 0px #333a42;
+    color: #d7443f;
+    -webkit-box-shadow: 0px 6px 0px 0px #d7443f;
+    box-shadow: 0px 6px 0px 0px #d7443f;
   }
 }
 header nav a {
@@ -432,7 +427,7 @@ header nav a:nth-child(even) {
 }
 @media screen and (min-width: 768px) {
   header nav a {
-    color: #565a5f;
+    color: #3f3f3f;
     font-size: 1em;
     float: left;
     background: inherit !important;
@@ -489,7 +484,7 @@ header nav a:nth-child(even) {
   width: 200px;
   -webkit-box-shadow: none;
   box-shadow: none;
-  color: #565a5f;
+  color: #3f3f3f;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
@@ -526,7 +521,7 @@ header nav a:nth-child(even) {
   text-align: center;
   display: inline-block;
   position: relative;
-  color: #999;
+  color: #3f3f3f;
   text-shadow: 0 1px #fff;
 }
 .profile-block.social-links a:before,
@@ -634,7 +629,6 @@ header nav a:nth-child(even) {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   margin-bottom: 4px;
-  background-color: #fff;
   border: 1px solid #eee;
   -webkit-transition: 0.2s linear;
   -moz-transition: 0.2s linear;
@@ -642,12 +636,13 @@ header nav a:nth-child(even) {
   transition: 0.2s linear;
   position: relative;
   opacity: 0;
+  background-color: #f9f9f9;
 }
 @media screen and (min-width: 768px) {
   .profile-block {
+    background-color: #f1ece9;
     border: none;
-    background-color: #f9f9f9;
-    color: #565a5f;
+    color: #3f3f3f;
     opacity: 1;
     top: 0;
   }
@@ -684,7 +679,7 @@ header nav a:nth-child(even) {
   text-align: center;
   width: 30px;
   font-size: 0.8em;
-  color: #333a42;
+  color: #d7443f;
 }
 @media screen and (min-width: 768px) {
   .profile-block.name:before {
@@ -734,7 +729,7 @@ header nav a:nth-child(even) {
 .profile-block.base-info #location {
   font-size: 12px;
   margin-top: 5px;
-  color: #9a9ea3;
+  color: #838383;
 }
 .profile-block.base-info #location .fa {
   margin-right: 5px;
@@ -845,16 +840,13 @@ header nav a:nth-child(even) {
     top: 0px;
   }
 }
-article,
-.article-share-box,
-#recent-post a:hover,
-.profile-block {
+.article-share-box {
   -webkit-box-shadow: 0px 6px 0px -4px rgba(0,0,0,0.15);
   box-shadow: 0px 6px 0px -4px rgba(0,0,0,0.15);
 }
 article {
   font-size: 1.5em;
-  background-color: #f9f9f9;
+  background-color: #f1ece9;
   overflow: hidden;
   margin-bottom: 1rem;
 }
@@ -878,13 +870,13 @@ article header > div {
   padding: 0 1rem;
 }
 article header > a:hover * {
-  color: #333a42;
+  color: #d7443f;
 }
 article footer {
   margin: 0 1rem;
   font-size: 0.85em;
   overflow: auto;
-  border-top: 1px dashed #333a42;
+  border-top: 1px dashed #d7443f;
 }
 article footer a {
   padding: 1rem;
@@ -929,7 +921,7 @@ article footer a:before {
   margin-right: 3px;
 }
 .article-meta a {
-  color: #565a5f;
+  color: #3f3f3f;
 }
 .article-meta a:hover {
   color: #d7443f;
@@ -956,10 +948,10 @@ article footer a:before {
   transition-duration: 0.6s;
 }
 .article-more-link:hover {
-  border-bottom-color: #333a42;
+  border-bottom-color: #d7443f;
 }
 .article-more-link:hover span {
-  background: #333a42;
+  background: #d7443f;
   color: #fff !important;
   opacity: 1;
 }
@@ -979,10 +971,10 @@ article footer a:before {
   right: 0;
   bottom: 1px;
   height: 50%;
-  background: -webkit-linear-gradient(270deg, rgba(255,255,255,0) 0%, #f9f9f9 100%);
-  background: -moz-linear-gradient(270deg, rgba(255,255,255,0) 0%, #f9f9f9 100%);
-  background: -ms-linear-gradient(270deg, rgba(255,255,255,0) 0%, #f9f9f9 100%);
-  background: linear-gradient(180deg, rgba(255,255,255,0) 0%, #f9f9f9 100%);
+  background: -webkit-linear-gradient(270deg, rgba(255,255,255,0) 0%, #f1ece9 100%);
+  background: -moz-linear-gradient(270deg, rgba(255,255,255,0) 0%, #f1ece9 100%);
+  background: -ms-linear-gradient(270deg, rgba(255,255,255,0) 0%, #f1ece9 100%);
+  background: linear-gradient(180deg, rgba(255,255,255,0) 0%, #f1ece9 100%);
   opacity: 1;
 }
 .article-more-link:hover:before {
@@ -993,7 +985,7 @@ article footer a:before {
 }
 .article-entry {
   font-size: 0.9em;
-  color: #565a5f;
+  color: #3f3f3f;
   padding: 0 1rem;
   position: relative;
   text-align: justify;
@@ -1145,7 +1137,7 @@ article footer a:before {
   #article-nav:before {
     content: "";
     border-radius: 50%;
-    background: #787c81;
+    background: #616161;
   }
 }
 .article-nav-link-wrap {
@@ -1166,7 +1158,7 @@ article footer a:before {
   transition: 0.2s;
 }
 .article-nav-link-wrap:hover {
-  color: #565a5f;
+  color: #3f3f3f;
   -webkit-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.15);
   box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.15);
 }
@@ -1195,7 +1187,7 @@ article footer a:before {
   letter-spacing: 2px;
   line-height: 1em;
   font-weight: 500;
-  color: #565a5f;
+  color: #3f3f3f;
 }
 #article-nav-newer .article-nav-caption {
   margin-right: -2px;
@@ -1203,7 +1195,7 @@ article footer a:before {
 .article-nav-title {
   font-size: 0.85em;
   margin-top: 0.5em;
-  color: #565a5f;
+  color: #3f3f3f;
 }
 .article-share-box {
   position: absolute;
@@ -1225,7 +1217,7 @@ article footer a:before {
   box-sizing: border-box;
   font: 14px KlinicSlab, Helvetica, Arial, sans-serif;
   padding: 0 15px;
-  color: #565a5f;
+  color: #3f3f3f;
   outline: none;
   border: 1px solid color-border;
   border-radius: 3px 3px 0 0;
@@ -1233,7 +1225,7 @@ article footer a:before {
   line-height: 36px;
 }
 .article-share-links {
-  background: #f9f9f9;
+  background: #f1ece9;
 }
 .article-share-links:before,
 .article-share-links:after {
@@ -1392,7 +1384,7 @@ ol.toc {
   }
 }
 #page-nav .current {
-  color: #565a5f;
+  color: #3f3f3f;
   font-weight: 500;
 }
 #page-nav .space {
@@ -1403,7 +1395,7 @@ ol.toc {
   width: 100%;
   padding: 20px 0;
   border-top: 1px solid color-border;
-  color: #565a5f;
+  color: #3f3f3f;
   font-size: 16px;
   text-align: center;
 }
@@ -1430,6 +1422,9 @@ ol.toc {
 }
 #sidebar a {
   color: inherit;
+}
+#sidebar a:hover {
+  color: #d7443f !important;
 }
 @media screen and (min-width: 768px) {
   #sidebar {
@@ -1465,7 +1460,7 @@ ol.toc {
   font-weight: 500;
 }
 .widget-wrap .item-date {
-  color: #999;
+  color: #3f3f3f;
 }
 #recent-post {
   overflow: hidden;
